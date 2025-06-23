@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bbq0e4bifil8c"
+path="res://.godot/imported/Light_in_the_jungle_checkpoint.dialogue-43cc2ef117b6067c91afa16088768782.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Light_in_the_jungle/1.3_Light_in_the_jungle_stealth/Light_in_the_jungle_stealth_components/Light_in_the_jungle_checkpoint.dialogue"
+dest_files=["res://.godot/imported/Light_in_the_jungle_checkpoint.dialogue-43cc2ef117b6067c91afa16088768782.tres"]
+
+[params]
+
+defaults=true

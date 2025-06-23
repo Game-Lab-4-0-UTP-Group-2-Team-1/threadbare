@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: The Threadbare Authors
+# SPDX-License-Identifier: CC0-1.0
+
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Build & export artifacts
+build/
+
+# From Tiny Swords pack
+.DS_Store
+.aseprite
