@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1h84tjv28k2y"
-path="res://.godot/imported/Light_in_the_jungle_guard_enemy_idle.png-d371dd1db51a4aed8092d2a622cea484.ctex"
+path="res://.godot/imported/Light_in_the_jungle_guard_enemy_idle.png-74ef7963bf58642b9ad6ecf73f25c52e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Light_in_the_jungle/1.2_Light_in_the_jungle_stealth/Light_in_the_jungle_stealth_components/Light_in_the_jungle_guard_enemy_idle.png"
-dest_files=["res://.godot/imported/Light_in_the_jungle_guard_enemy_idle.png-d371dd1db51a4aed8092d2a622cea484.ctex"]
+source_file="res://scenes/quests/story_quests/Light_in_the_jungle/2.1_Light_in_the_jungle_stealth/Light_in_the_jungle_stealth_components/Light_in_the_jungle_guard_enemy_idle.png"
+dest_files=["res://.godot/imported/Light_in_the_jungle_guard_enemy_idle.png-74ef7963bf58642b9ad6ecf73f25c52e.ctex"]
 
 [params]
 

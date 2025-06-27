@@ -290,6 +290,7 @@ bus = &"SFX"
 
 [node name="AttackSound" type="AudioStreamPlayer2D" parent="Sounds"]
 unique_name_in_owner = true
+position = Vector2(3, 1)
 volume_db = 5.0
 max_distance = 1000.0
 bus = &"SFX"

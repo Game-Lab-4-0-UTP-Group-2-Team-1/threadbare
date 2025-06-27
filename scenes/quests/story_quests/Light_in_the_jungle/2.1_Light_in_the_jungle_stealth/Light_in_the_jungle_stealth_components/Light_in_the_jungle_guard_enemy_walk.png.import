@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dnxa52s1f1r4w"
-path="res://.godot/imported/Light_in_the_jungle_guard_enemy_walk.png-5a1510ef37a6eb4a07c50c363edea2bc.ctex"
+uid="uid://djhs4xbpssg4r"
+path="res://.godot/imported/Light_in_the_jungle_guard_enemy_walk.png-d556f2c49a784d2a5b39a41d1e957792.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Light_in_the_jungle/1.3_Light_in_the_jungle_stealth/Light_in_the_jungle_stealth_components/Light_in_the_jungle_guard_enemy_walk.png"
-dest_files=["res://.godot/imported/Light_in_the_jungle_guard_enemy_walk.png-5a1510ef37a6eb4a07c50c363edea2bc.ctex"]
+source_file="res://scenes/quests/story_quests/Light_in_the_jungle/2.1_Light_in_the_jungle_stealth/Light_in_the_jungle_stealth_components/Light_in_the_jungle_guard_enemy_walk.png"
+dest_files=["res://.godot/imported/Light_in_the_jungle_guard_enemy_walk.png-d556f2c49a784d2a5b39a41d1e957792.ctex"]
 
 [params]
 
