@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://hwrkgra7cura"
-path="res://.godot/imported/Light_in_the_jungle_Replace image.png-d9f99cd01b2320c932e55d5531bc5537.ctex"
+uid="uid://c484lwqwfyljf"
+path="res://.godot/imported/Aylin_player_idle.png-4fdb9d634c41d2fcc18cd7b74738fc65.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/Light_in_the_jungle/0_Light_in_the_jungle_intro/Light_in_the_jungle_intro_components/Light_in_the_jungle_Replace image.png"
-dest_files=["res://.godot/imported/Light_in_the_jungle_Replace image.png-d9f99cd01b2320c932e55d5531bc5537.ctex"]
+source_file="res://scenes/quests/story_quests/Light_in_the_jungle/assets/characters/player/Aylin_player_idle.png"
+dest_files=["res://.godot/imported/Aylin_player_idle.png-4fdb9d634c41d2fcc18cd7b74738fc65.ctex"]
 
 [params]
 
